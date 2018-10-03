@@ -1,0 +1,5 @@
+.DS_Store
+p3venv
+venv
+config.py
+*.pyc.DS_Store
